@@ -15,3 +15,5 @@ ComponentRegistrar::register(
     'Yireo_TestModuleSkeleton',
     __DIR__
 );
+
+// Test
